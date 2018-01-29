@@ -22,3 +22,6 @@
     - project: pymc3
       url: https://github.com/pymc-devs/pymc3
       asv_config: benchmarks/asv.conf.json
+    - project: matplotlib
+      url: https://github.com/matplotlib/mpl-bench
+      asv_config: asv.conf.json
